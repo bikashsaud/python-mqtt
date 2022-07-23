@@ -15,6 +15,8 @@
 ```Django : Backend```
 ```Js: Visualization and message communication in frontend```
 ```HTML,CSS,BOOTSTRAP: UI```
+
+##### Project Link: https://github.com/bikashsaud/mqtt-django-ui
 #### Below UI and data 
 
 ![Screenshot from 2022-07-23 15-07-08](https://user-images.githubusercontent.com/37735201/180599206-5e299a30-09c6-4096-9f8e-d56b183cb0eb.png)
